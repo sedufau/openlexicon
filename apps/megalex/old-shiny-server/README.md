@@ -1,4 +1,6 @@
-# Redirection for the MEGALEX databases (within OpenLexicon: Easy access to lexical databases)
+# Redirection for the MEGALEX databases 
+
+_(within OpenLexicon project: Easy access to lexical databases)_
 
 These are the files _currently_ available at [https://sedufau.shinyapps.io/megalex/](https://sedufau.shinyapps.io/megalex/).
 
